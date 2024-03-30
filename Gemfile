@@ -73,3 +73,4 @@ end
 
 gem "awesome_print"
 gem "carrierwave"
+gem 'kaminari'
